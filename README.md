@@ -1,4 +1,4 @@
-# Star Wars App
+# React Movies App
 
 Project created with 'npx create-react-app', which lists the movies from a api, when you click in one movie it should show the detail.
 
